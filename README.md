@@ -101,4 +101,4 @@ Full interactive docs (Swagger UI): **https://aethera-api.onrender.com/docs**
 
 ---
 
-Built with ♥ by Zephyr Labs
+Built with ♥ by Saurabh Raj Shekhar
